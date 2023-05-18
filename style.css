@@ -1,0 +1,40 @@
+html {
+    padding: 100px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+
+}
+p {
+    text-align: justify;
+    padding: 30px;
+}
+
+
+.conteiner {
+    border: solid;
+    display: flex;
+    flex-wrap: center;
+
+
+}
+
+.div-conteiner-botao {
+    padding: 10px;
+    flex-wrap: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.divbox {
+    border: solid;
+    border: solid;
+    justify-content: space-between
+}
